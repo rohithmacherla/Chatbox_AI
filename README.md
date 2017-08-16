@@ -1,2 +1,2 @@
-# Chatbox_AI
-A chat-box AI (written in Python) that uses Markov chains.
+# Poem_generator
+A Poem Generator (written in Python) that uses Markov chains.
